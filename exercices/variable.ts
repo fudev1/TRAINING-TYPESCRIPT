@@ -21,7 +21,11 @@ let isLoading: boolean;
 let myAge: number | string;
 
 // let animals: string[] = [];
+// -> OU
+// let animals : Array<string> = [];
+// -> PUIS
 // animals.push('otter');
+
 
 let animals: Array<string> = ['otter'];
 

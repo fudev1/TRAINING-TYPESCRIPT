@@ -17,6 +17,9 @@ speed = 25;
 let isLoading;
 let myAge;
 // let animals: string[] = [];
+// -> OU
+// let animals : Array<string> = [];
+// -> PUIS
 // animals.push('otter');
 let animals = ['otter'];
 let info;
